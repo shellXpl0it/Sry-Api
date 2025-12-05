@@ -1,4 +1,4 @@
-# Sry-Api
+# Sry-Api https://discord.gg/pyynMMZfQT
 
 Sry-Api is a powerful and user-friendly command-line tool for managing and interacting with Discord webhooks. Built with Python, it provides a simple, menu-driven interface to check the status of webhooks, send a high volume of messages, and delete them directly from your terminal.
 
